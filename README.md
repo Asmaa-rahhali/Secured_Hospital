@@ -1,6 +1,6 @@
 <h1>Gestion des Patients avec Spring Security</h1>
 
-<p>Ce projet illustre le contrôle d'accès basé sur les rôles avec Spring Security, en utilisant trois modes d'authentification :</p>
+<p>Ce projet illustre le contrôle d'accès basé sur les rôles avec Spring Security, en utilisant trois modes d'authentification:</p>
 <ul>
     <li>Authentification In-Memory</li>
     <li>Authentification JDBC</li>
